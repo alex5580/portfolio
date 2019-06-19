@@ -183,6 +183,7 @@ html {
     top: 50%;
     left: 50%;
     opacity: 1;
+    text-decoration: none;
 }
 
 .content-details h3 {
@@ -196,6 +197,10 @@ html {
 .content-details p {
     color: #fff;
     font-size: 0.8em;
+}
+
+.content-details a {
+    text-decoration: none;
 }
 
 .fadeIn-bottom {
